@@ -1,0 +1,17 @@
+/.vscode
+.svn/ 
+*.png
+*.d
+*.O
+*.crf
+* xml
+bin
+/components
+components/
+build/
+DebugConfig/
+settings/
+DSP_Lib/
+RTOS/
+
+
